@@ -1,0 +1,7 @@
+Flask==3.0.3
+numpy==2.1.0
+# pandas + scikit-learn are optional; app falls back to numpy-only ML if they aren't installed
+# pandas==2.2.2
+# scikit-learn==1.5.1
+
+
